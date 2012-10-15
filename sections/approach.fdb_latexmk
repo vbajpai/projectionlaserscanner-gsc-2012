@@ -1,0 +1,9 @@
+# Fdb version 2
+["latex"] 0 "approach.tex" "approach.dvi" "approach" 
+  "approach.tex" 1336056011 5475 a9692493a0e0198634617872b8a0895b ""
+["pdflatex"] 1336056095 "approach.tex" "approach.pdf" "approach" 
+  "approach.aux" 1336056014 8 a94a2480d3289e625eea47cd1b285758 ""
+  "approach.tex" 1336056091 5044 a4dba40c71befc3c2c821a47ce77786e ""
+  "e.g., `I\hbox'" 0 -1 0 ""
+  "e.g., `\hobx'" 0 -1 0 ""
+  "job aborted, no legal \end found" 0 -1 0 ""
